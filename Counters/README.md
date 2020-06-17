@@ -18,3 +18,23 @@ F or the synchronous counter, it counts up from 0 to 15 then repeats itself. Whe
 <img width="583" alt="Screen Shot 2020-06-17 at 12 52 26 AM" src="https://user-images.githubusercontent.com/66625688/84856493-da91d600-b034-11ea-804d-e590e7ff7749.png">
 
 
+
+<img width="456" alt="Screen Shot 2020-06-17 at 12 53 32 AM" src="https://user-images.githubusercontent.com/66625688/84856535-fb5a2b80-b034-11ea-848f-88fd8cecac58.png">
+
+
+Decimal Counter \
+For a decimal counter, the counter counts up when the clock input is 1, yet stops at 9 and resets to 0 instead of stopping at 15. A state diagram was made for the corresponding logic. From their a state table was made to find the output logic. For the counter, when Outputs Q0* and Q3* equal to one, the entire logic is reset.
+
+<img width="460" alt="Screen Shot 2020-06-17 at 12 54 32 AM" src="https://user-images.githubusercontent.com/66625688/84856592-22b0f880-b035-11ea-8915-0074209180d2.png">
+
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/66625688/84856614-34929b80-b035-11ea-90e4-8a6fcbeefe7e.png">
+
+
+# Results
+
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/66625688/84856667-4ffda680-b035-11ea-82f8-d03aae78fcf2.png">
+
+Above some types of counters in Verilog
+
+
+
