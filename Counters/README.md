@@ -1,7 +1,8 @@
 # Ripple Counter, Synchronous Counter, and BCD
+" All the info bellow are coppied from my notebook as a sophomore student for ECE "
 
 Counters are type of registers that goes through prescribed sequence. Counters come in two categories, ripple counter and synchronous. In ripple counters, flips flops are triggered by a flipflop output. In synchronous counter, the input of all C input of all flip flop have is synchronized, so they all connected to a common clock. In this lab, ripple counters, synchronies and decimal counters will all be studied and investigated. \
-In the first part of the lab, three types of counters will be studied theoretically, and then they will be built and tested physically. For the first part will be a rabble counter that counts down from 16 to 0 using JK flip flops, the second part will be a synchronous counter that counts up 0 to 15 using JK flip flops as well, and lastly a decimal counter that counts from 0 to 9 and repeat.  \
+In the first part of the lab, three types of counters will be studied theoretically, and then they will be built and tested physically. For the first part will be a rabble counter that counts down from 16 to 0 using JK flip flops, the second part will be a synchronous counter that counts up 0 to 15 using JK flip flops as well, and lastly a decimal counter that counts from 0 to 9 and repeat.  
 
 # Methods
 The ripple \
