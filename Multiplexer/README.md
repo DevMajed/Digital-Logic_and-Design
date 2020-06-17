@@ -11,3 +11,8 @@ Multiplexers are devices used for analog and digital signals. They control the i
 From the truth table, a diagram of the circuit can be constructed. For the 4 multiplexers, where the 3 inputs are set to z, y, and x, and the enable is set to w. From here the 8 inputs of the 4 multiplexers are chosen. 
 Inputs were chosen by grouping boxes in the truth table. For instance, decimals 0 and 1 for output 1 where group, decimals 2 and 3, and so on. Once the 16 outputs for each binary bit where grouped to become 8, the circuit inputs where chosen from the pattern shown in table 2
 
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/66625688/84857268-a3242900-b036-11ea-894c-e77b045ba214.png">
+
+
+# Result
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/66625688/84857310-bc2cda00-b036-11ea-8d55-24b6317d9cda.png">
