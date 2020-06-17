@@ -1,4 +1,8 @@
 # Flip Flops
+" All the info bellow are coppied from my notebook as a sophomore student for ECE "
+
+
+
 
 SR latches are asynchronous devices that work without the need of a control signal, as the output depend only on S and R inputs or set and reset. They can be made of two coursed NAND gates as shown in figure 1. In this circuit, when S goes high, the output Q goes high, however, the output Q does not switch to low state until rest input turn to high. SR latch has a problem when both inputs are high, as the output become unstable. D latch is an SR latch without that problem since it uses gated input that come from complementary driver. The D latch output the D value for Q as long as the enable is high, otherwise its outputs Q’=1. Master slave flip flop is a two of D flip flips that work together. When the clock is high, the D inputs is stored in the first D latch, and when the clock is low, the first latch output is moved to the second latch without changing the state of the first latch because of that, the output can change only in transitions from high to low. The advantage of this circuit is that it is edge triggered, what makes it easier to use in a larger circuit, as the input of flip flop usually depend on the state of the output. Edge triggered is the same idea, in in this lab it will be made using six NAND gates. \
 
