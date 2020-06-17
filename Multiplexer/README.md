@@ -16,3 +16,5 @@ Inputs were chosen by grouping boxes in the truth table. For instance, decimals 
 
 # Result
 <img width="768" alt="image" src="https://user-images.githubusercontent.com/66625688/84857310-bc2cda00-b036-11ea-8d55-24b6317d9cda.png">
+
+Attached above a basic form of Mux
